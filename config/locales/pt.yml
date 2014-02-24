@@ -118,10 +118,10 @@ pt:
   main:
     banner: "Conheça a pesquisa"
     links:
-      channels: "Descubra o Canal Asas"
-      recommended: "Descubra projetos recomendados"
-      expiring: "Descubra projetos na reta final"
-      recents: "Descubra projetos recentes"
+      channels: "Se divirta com os mini-games"
+      recommended: "Veja"
+      expiring: "Descubra quem está na reta final"
+      recents: "Lorem ipsilum"
       near: "Descubra projetos perto de você"
   sidebar:
     titles:
@@ -144,7 +144,7 @@ pt:
     recents:
       title: "Recentes"
     channels:
-      title: 'Canal Asas'
+      title: 'Mini Games'
   accept_terms_html: "Eu li e estou de acordo com os %{link}."
   activerecord:
     errors:
@@ -336,8 +336,8 @@ pt:
       faq: FAQ
       signup: Cadastre-se
       signin: Login
-      discover: Descubra
-      submit: Envie seu projeto
+      discover: Saiba mais
+      submit: Cadastre seus alunos
       profile: "Meu perfil"
       account: "Minha conta"
     user:
